@@ -1,2 +1,2 @@
 # XCellDB
-The worst possible database you could ever pick. It literally 'XCells' at nothing
+XCellDB is a library for reading and writing xlsx files. Please don't use this as a database.
